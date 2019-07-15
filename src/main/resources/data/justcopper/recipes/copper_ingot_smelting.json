@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingridient": {
+		"tag": "justcopper:copper_ore"
+	},
+	
+	"result": "justcopper:copper_ingot",
+
+	"experience": 0.85,
+
+	"cookingTime": 200
+}

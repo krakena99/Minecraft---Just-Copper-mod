@@ -1,0 +1,17 @@
+{
+	"item.justcopper.copper_ingot": "Copper Ingot",
+
+	"block.justcopper.copper_ore": "Copper Ore",
+	
+	"item.justcopper.copper_pickaxe": "Copper Pickaxe",
+	"item.justcopper.copper_axe": "Copper Axe",
+	"item.justcopper.copper_shovel": "Copper Shovel",
+	"item.justcopper.copper_hoe": "Copper Hoe",
+	"item.justcopper.copper_sword": "Copper Sword",
+	
+	"item.justcopper.copper_helmet": "Copper Helmet",
+	"item.justcopper.copper_chestplate": "Copper Chestplate",
+	"item.justcopper.copper_leggings": "Copper Leggings",
+	"item.justcopper.copper_boots": "Copper Boots"
+	
+}

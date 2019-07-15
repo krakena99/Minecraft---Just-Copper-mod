@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II ",
+		"IS ",
+		" S "
+	],
+	
+	"key":
+	{
+		"I": { "item": "justcopper:copper_ingot"},
+		"S": { "item": "minecraft:stick"}
+	},
+	
+	"result": { "item": "justcopper:copper_axe"}
+}
